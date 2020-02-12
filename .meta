@@ -1,3 +1,9 @@
 {
-  "projects": {}
+  "projects": {
+    "microservices/user-service": "https://github.com/skybrook-tech/user-service.git",
+    "frontend/mockend": "https://github.com/skybrook-tech/mockend.git",
+    "microservices/project-service": "https://github.com/skybrook-tech/project-service.git",
+    "microservices/proxy-service": "https://github.com/skybrook-tech/proxy-service.git",
+    "microservices/project-generator-service": "https://github.com/skybrook-tech/project-generator-service.git"
+  }
 }
